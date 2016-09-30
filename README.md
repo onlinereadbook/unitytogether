@@ -4,8 +4,9 @@
 - readme
 - changelog
 - scene
-- charactor
-- etc. 
+- character
+- assets
+- etc.
 
 ### Unity 版本
 5.4.1
