@@ -1,4 +1,11 @@
 # Unity 遊戲共筆計畫
 
-### 版本
+### Scope 定義
+- readme
+- changelog
+- scene
+- charactor
+- etc. 
+
+### Unity 版本
 5.4.1
